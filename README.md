@@ -58,15 +58,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/thatoneumer" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<a href="https://instagram.com/thatoneumer" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+<a href="https://linkedin.com/in/thatoneumer" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
@@ -76,7 +76,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/thatoneumer/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
